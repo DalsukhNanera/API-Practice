@@ -1,0 +1,19 @@
+.item{
+    height: 200px;
+    width: 200px;
+ margin: 10px;
+ }
+
+
+#box2{
+    float: right;
+}
+
+#box3{
+   position: absolute;
+   right: 100px;
+}
+
+
+
+
